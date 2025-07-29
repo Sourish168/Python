@@ -1,4 +1,4 @@
-# It can be run on Jupyter Notebook or Google Colab.
-# Mainly contains the basics of NumPy Library.
-# Understanding the whole file line by line can clear the basic ideas of NumPy.
-# No extra files are needed for code execution, .ipynb file is enough.
+1. It can be run on Jupyter Notebook or Google Colab.
+2. Mainly contains the basics of NumPy Library.
+3. Understanding the whole file line by line can clear the basic ideas of NumPy.
+4. No extra files are needed for code execution, .ipynb file is enough.
